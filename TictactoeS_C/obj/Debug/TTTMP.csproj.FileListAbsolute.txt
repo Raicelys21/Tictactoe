@@ -1,0 +1,16 @@
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TTTMP.csprojAssemblyReference.cache
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TictactoeS_C.Connect.resources
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TictactoeS_C.MP.resources
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TictactoeS_C.Properties.Resources.resources
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TTTMP.csproj.GenerateResource.cache
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TTTMP.csproj.CoreCompileInputs.cache
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\ServerandClient.exe.config
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\ServerandClient.exe.manifest
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\ServerandClient.application
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\ServerandClient.exe
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\ServerandClient.pdb
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\ServerandClient.TrustInfo.xml
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\ServerandClient.exe.manifest
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\ServerandClient.application
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\ServerandClient.exe
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\ServerandClient.pdb
