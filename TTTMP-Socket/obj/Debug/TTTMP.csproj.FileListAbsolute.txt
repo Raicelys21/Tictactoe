@@ -1,0 +1,16 @@
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TTTMP.csprojAssemblyReference.cache
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TictactoeS_C.Connect.resources
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TictactoeS_C.MP.resources
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TictactoeS_C.Properties.Resources.resources
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TTTMP.csproj.GenerateResource.cache
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\TTTMP.csproj.CoreCompileInputs.cache
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\HvzH.exe.config
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\HvzH.exe.manifest
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\HvzH.application
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\HvzH.exe
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\bin\Debug\HvzH.pdb
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\HvzH.TrustInfo.xml
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\HvzH.exe.manifest
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\HvzH.application
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\HvzH.exe
+C:\Users\Raicelys Suero\Documents\CST-5\Programación Aplicada\TictactoeS_C\obj\Debug\HvzH.pdb
